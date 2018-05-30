@@ -1,3 +1,3 @@
 const currentUser = 'Chandana';
- 
-const shortGreeting = `Welcome, ${currentUser}!`;
+
+const welcomeMessage = `Welcome, ${currentUser}!`;
