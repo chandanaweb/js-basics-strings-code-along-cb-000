@@ -1,1 +1,3 @@
-let currentUser = 'testUser';
+const currentUser = 'Chandana';
+ 
+const shortGreeting = `Welcome, ${currentUser}!`;
